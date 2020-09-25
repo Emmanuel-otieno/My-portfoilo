@@ -12,3 +12,9 @@ img{
     height: auto;
     border-radius: 50%;
 }
+#background{
+    padding: 5px;
+    margin: auto;
+    font-style: inherit;
+    font-family: sans-serif;
+}
