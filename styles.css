@@ -2,3 +2,21 @@ body{
     background-color: bisque;
     text-align:center ;
 }
+.nav{
+    font-weight: bold;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    float: right;
+  }
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  
