@@ -10,13 +10,18 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
-  li {
+}
+li {
     float: right;
-  }
-  li a {
+}
+li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
-  }
+}
+img{
+    padding: 16px;
+    width: 500px;
+    height: 500px;
+}
   
