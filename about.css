@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    text-align:center ;
+    
+}
+h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+}
+#background{
+    padding: 5px;
+    margin: auto;
+    font-style: inherit;
+    font-family: sans-serif;
+}
